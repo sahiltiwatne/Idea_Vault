@@ -40,7 +40,7 @@
 
 1. Clone this repository:
    
-   git clone https://github.com/your-username/Idea_Vault.git
+   git clone https://github.com/sahiltiwatne/Idea_Vault.git
 
 2. Navigate to Project directory:
 
